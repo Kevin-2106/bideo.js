@@ -22,7 +22,7 @@
     // of different video formats to add
     src: [
       {
-        src: 'https://prprmgr.kevin2106.top/prprblog/STUDY%20WITH%20MIKU%20CLIPPED1.mp4',
+        src: 'https://cdn.jsdelivr.net/gh/Kevin-2106/bideo.js@master/STUDY%20WITH%20MIKU%20CLIPPED1.mp4',
         type: 'video/mp4'
       },
       {
